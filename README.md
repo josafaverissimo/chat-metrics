@@ -1,0 +1,24 @@
+- Who spoke more?
+- For how many days have we spoken?
+- For how many days have we not spoken?
+- How many consecutive days have we been talking?
+- How many consecutive days have we not spoken?
+- What was the longest message sent?
+- How many messages were sent in total?
+- How many messages were sent per day on average?
+- Who sent the first message of the day most often?
+- What were the most frequent times for messages?
+- Who sent the most messages per day on average?
+- How many times did each person send the last message of the day?
+- Who sent the shortest message?
+- What was the most used word in our conversations?
+- How many emojis were used in total?
+- What was the most used sticker?
+- Who sent the most emojis?
+- Which day had the most messages exchanged?
+- What is the average size of messages sent by each person?
+- Who sent the most messages in a single day?
+- Which days of the week are the most active in our conversations?
+- What time of day has the most messages?
+- Who said "I love you" the most?
+- How many times did each person say "I love you"?
